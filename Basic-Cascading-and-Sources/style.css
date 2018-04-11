@@ -1,0 +1,10 @@
+article {
+	width: 70%;
+	margin: 100px auto;
+	background: white;
+	padding: 20px;
+}
+
+h1 {
+	color: red;
+}
