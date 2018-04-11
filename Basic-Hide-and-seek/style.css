@@ -1,0 +1,18 @@
+div {
+	border:3px solid purple;
+	margin:5px;
+}
+
+#third>p {
+	display: none;
+}
+
+h1 {
+	display: none; 
+}
+
+#second * {
+	display: none;
+}
+
+/* Cant show <img> because its a child of an hidden div. */
