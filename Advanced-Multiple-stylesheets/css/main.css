@@ -1,0 +1,19 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+a {
+	color: #1c1c1c
+}
+
+body {
+	background: #bfb8a9;
+}
+
+main {
+	width: 980px;
+	margin: 200px auto; 
+	font-size: 0.8em;
+	border: 10px solid grey;
+}

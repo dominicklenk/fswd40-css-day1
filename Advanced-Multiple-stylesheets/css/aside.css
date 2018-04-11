@@ -1,0 +1,17 @@
+aside {
+	width:200px;
+	background: #d2af87;
+	bottom: 0;
+	right: 0;
+	top: 0;
+	position: absolute;
+	padding: 50px 25px;
+}
+
+aside p {
+	padding-top: 15px;
+}
+
+aside adress {
+	padding-top: 15px
+}
